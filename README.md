@@ -21,11 +21,6 @@ https://www.mediafire.com/file/5tao2xehhix4m3n/SyntaxSaviorGithub.zip/file
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
-* * *
- 
-
-
-
 <picture>
 
 <source 
