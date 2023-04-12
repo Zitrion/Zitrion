@@ -15,10 +15,15 @@ https://www.mediafire.com/file/5tao2xehhix4m3n/SyntaxSaviorGithub.zip/file
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.fphb2-1.fna.fbcdn.net/v/t51.2885-19/340483326_943738980006705_7125515016956457269_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fphb2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=LE34r2katc8AX_Bi_5l&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBEbsr5EHvYd0lz3q43JS-mzm0xhd_DIsh1WjNzWLqTqg&oe=643A2FC0&_nc_sid=8fd12b">
 </div>
  
-  ##
  
-<div> 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### Demo
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
+* * *
+ 
+
 
 
 <picture>
